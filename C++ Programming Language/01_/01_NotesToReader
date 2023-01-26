@@ -1,0 +1,53 @@
+# Chapter 1 - Notes to the Reader
+
+# 1.1 Structure of the Book
+
+The book consists of six parts:
+&emsp; Introduction: Chapters 1-3 - Overview of C++ , the standard library, and supported programming styles
+&emsp; Part I: Chapters 4-9 - Introduce C++ built in types and constructing programs from them
+&emsp; Part II: Chapters 10-15 - Introduction to Object Oriented Programming and generic programming in C++
+&emsp; Part III: Chapters 16-22 - Present the C++ standard library
+&emsp; Part IV: Chapters 23-25 - Discuss design and software development issues
+
+## 1.1.1 Examples and References
+
+This book emphasizes program organization rather than the writing of algorithms
+Examples are simplified versions of what is found in real code
+
+## 1.1.2 Exercises
+
+Exercises are found at the end of chapters.
+Always write enough code to compile and run the solution with at least a few test cases
+Exercises are marked by their difficulty rating which is an exponential scale from 1-5
+
+## 1.1.3 Implementation Note
+The language used in this book is "pure C++" as defined in the C++ standard [C++,1998]
+
+## 1.2 Learning C++
+Focus on concepts and don't get lost in language-technical details
+The goal is to become more efficient at designing and maintaining systems
+Design techniques are more important than understanding of details; that comes with time
+C++ supports a variety of programming styles, all of which are based on strong static type checking, and most aim at achieving a high level of abstraction and a direct representation of the programmers ideas.
+Appendix B is a guide for programmers going from C++ to C
+
+
+
+## 1.3 The Design of C++
+Simplicity was an important design criterion: where there was a choice between simplifying the language definition or simplifying the compiler, and the former was chosen.
+#### C++ has no built in high-level data types and no high level primitive operations
+>ex. the language does not provide a matrix type with an inversion operation or a string type with a concatenation operator
+
+If a user wants such a type, it can be defined in the language itself. The defining of a new general-purpose or application-specific type is the most fundamental programming activity in C++
+## 1.3.1 Efficiency and Structure
+
+
+
+## 1.3.2 Philosophical Note
+## 1.4 Historical Note
+## 1.5 Use of C++
+## 1.6 C and C++
+## 1.6.1 Suggestions for C Programmers
+## 1.6.2 Suggestions for C++ Programmers
+## 1.7 Thinking about Programming in C++
+## 1.8 Advice
+
